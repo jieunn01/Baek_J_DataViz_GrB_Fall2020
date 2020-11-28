@@ -1,2 +1,4 @@
-# Baek_J_DataViz_GrB_Fall2020
-Baek_J_Dataviz
+# Olymipic Data Viz Project
+
+## All about Canada and the Winter Olympics
+
